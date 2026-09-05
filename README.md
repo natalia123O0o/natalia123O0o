@@ -90,7 +90,7 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
   <a href="https://github.com/natalia123O0o">
     <img src="https://img.shields.io/badge/🐙_GitHub-natalia123O0o-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/yina-barbosa-61814b245" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-Yina_Natalia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
