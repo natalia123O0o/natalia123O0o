@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Yina+Natalia+Barbosa;🚀+Tecnóloga+en+Análisis+y+Desarrollo+de+Software;💻+Backend+%7C+Soporte+Técnico+%7C+Frontend+Básico;📊+Apasionada+por+los+datos+y+la+tecnología" alt="Typing SVG" />
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    ¡Hola! Soy Yina Natalia Barbosa
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  </h1>
+  <h3>🚀 Tecnóloga en Análisis y Desarrollo de Software</h3>
+  <p>
+    <b>💻 Backend | 🛠️ Soporte Técnico | 🎨 Frontend Básico</b>
+  </p>
+  <p>
+    <i>📊 Apasionada por los datos y la tecnología</i>
+  </p>
 </div>
 
 <br>
