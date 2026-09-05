@@ -55,19 +55,6 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
 
 ---
 
-## 🎓 Formación y Certificaciones
-
-| Institución | Certificación / Programa |
-| :--- | :--- |
-| **SENA** | Tecnóloga en Análisis y Desarrollo de Software *(en proceso)* |
-| **SENA** | Técnico en Programación de Software *(finalizado)* |
-| **CISCO / AvanzaTec** | Fundamentos de Análisis de Datos |
-| **IBM SkillsBuild** | Fundamentos de Inteligencia Artificial |
-| **CISCO** | Fundamentos de Ciberseguridad |
-| **Fundación ROFE** | Desarrollo Web (Jóvenes Creativos) |
-
----
-
 ## 🧠 Habilidades
 
 | Técnicas | Blandas |
@@ -98,9 +85,30 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=natalia123O0o&label=👀+Visitas+al+perfil&color=blueviolet&style=flat" alt="Profile views" />
+  <!-- Animación de pulsación (glow) -->
+  <img src="https://komarev.com/ghpvc/?username=natalia123O0o&label=👀+Visitas+al+perfil&color=blueviolet&style=flat" alt="Profile views" style="animation: pulse 2s infinite;" />
+  
   <br><br>
-  <img src="https://img.shields.io/badge/🌟-Creado_con_❤️_por_Yina_Natalia-FF69B4?style=for-the-badge" />
+
+  <!-- Badge con animación de brillo -->
+  <img src="https://img.shields.io/badge/🌟-Creado_con_❤️_por_Yina_Natalia-FF69B4?style=for-the-badge" style="animation: shine 3s infinite;" />
+  
   <br><br>
+  
   <i>“Donde los datos encuentran estructura, el código encuentra propósito.”</i>
 </div>
+
+<!-- Estilos CSS para las animaciones -->
+<style>
+  @keyframes pulse {
+    0% { opacity: 0.7; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.05); }
+    100% { opacity: 0.7; transform: scale(1); }
+  }
+  
+  @keyframes shine {
+    0% { filter: brightness(1); }
+    50% { filter: brightness(1.3); }
+    100% { filter: brightness(1); }
+  }
+</style>
