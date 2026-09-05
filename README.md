@@ -57,14 +57,34 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
 
 ## 🧠 Habilidades
 
-| Técnicas | Blandas |
-| :--- | :--- |
-| `🐍 Python` `⚡ JavaScript` `🗄️ SQL` `☕ Java` | 🗣️ Comunicación efectiva |
-| `🖥️ Django` `⚛️ React` `🔷 .NET` | 🤝 Trabajo en equipo y colaboración |
-| `🐘 PostgreSQL` `🐬 MySQL` `🍃 MongoDB` | 🧩 Resolución de problemas y pensamiento crítico |
-| `📦 Git` `🐙 GitHub` `🐳 Docker` | 📚 Aprendizaje continuo y adaptabilidad |
-| `📊 Power BI` `📈 Excel` `🗂️ Access` | 💙 Empatía y atención al usuario |
-| `🔧 Soporte Técnico` `📝 Documentación` | ⏳ Organización y gestión del tiempo |
+<div align="center">
+
+### 💻 Técnicas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<br><br>
+
+### 🤝 Blandas
+![Comunicación Efectiva](https://img.shields.io/badge/🗣️-Comunicación_Efectiva-4CAF50?style=for-the-badge)
+![Trabajo en Equipo](https://img.shields.io/badge/🤝-Trabajo_en_Equipo-2196F3?style=for-the-badge)
+![Resolución de Problemas](https://img.shields.io/badge/🧩-Resolución_de_Problemas-FF9800?style=for-the-badge)
+![Aprendizaje Continuo](https://img.shields.io/badge/📚-Aprendizaje_Continuo-9C27B0?style=for-the-badge)
+![Empatía](https://img.shields.io/badge/💙-Empatía-FF1493?style=for-the-badge)
+![Organización](https://img.shields.io/badge/⏳-Organización-00BCD4?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -85,30 +105,9 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
 ---
 
 <div align="center">
-  <!-- Animación de pulsación (glow) -->
-  <img src="https://komarev.com/ghpvc/?username=natalia123O0o&label=👀+Visitas+al+perfil&color=blueviolet&style=flat" alt="Profile views" style="animation: pulse 2s infinite;" />
-  
+  <img src="https://komarev.com/ghpvc/?username=natalia123O0o&label=👀+Visitas+al+perfil&color=blueviolet&style=flat" alt="Profile views" />
   <br><br>
-
-  <!-- Badge con animación de brillo -->
-  <img src="https://img.shields.io/badge/🌟-Creado_con_❤️_por_Yina_Natalia-FF69B4?style=for-the-badge" style="animation: shine 3s infinite;" />
-  
+  <img src="https://img.shields.io/badge/🌟-Creado_con_❤️_por_Yina_Natalia-FF69B4?style=for-the-badge" />
   <br><br>
-  
   <i>“Donde los datos encuentran estructura, el código encuentra propósito.”</i>
 </div>
-
-<!-- Estilos CSS para las animaciones -->
-<style>
-  @keyframes pulse {
-    0% { opacity: 0.7; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.05); }
-    100% { opacity: 0.7; transform: scale(1); }
-  }
-  
-  @keyframes shine {
-    0% { filter: brightness(1); }
-    50% { filter: brightness(1.3); }
-    100% { filter: brightness(1); }
-  }
-</style>
