@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vcenter=true&width=500&lines=%C2%A1Hola!+Soy+Yina+Natalia+Barbosa;Tecn%C3%B3loga+en+Desarrollo+de+Software;Backend+%7C+Datos+%7C+Frontend+B%C3%A1sico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vcenter=true&width=500&lines=%C2%A1Hola!+Soy+Natalia+;Tecn%C3%B3loga+en+Desarrollo+de+Software;Backend+%7C+Datos+%7C+Frontend+B%C3%A1sico" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 Sobre mí
 
-¡Hola! Soy **Yina Natalia Barbosa**, Técnica y Tecnóloga en **Análisis y Desarrollo de Software** con una fuerte vocación por el **desarrollo backend**, el **procesamiento de datos** y la **estructuración de bases de datos**.
+¡Hola! Soy **Natalia**, Técnica y Tecnóloga en **Análisis y Desarrollo de Software** con una fuerte vocación por el **desarrollo backend**, el **procesamiento de datos** y la **estructuración de bases de datos**.
 
 Además de mi enfoque principal en el backend, cuento con experiencia práctica en **soporte técnico integral**, lo que me ha permitido desarrollar una gran capacidad para entender las necesidades de los usuarios, documentar procesos y crear soluciones funcionales. También tengo conocimientos en **frontend** (HTML, CSS, JavaScript y React básico), lo que me da una visión más amplia del desarrollo de aplicaciones.
 
