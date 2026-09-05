@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    ¡Hola! Soy Yina Natalia Barbosa
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  </h1>
-  <h3>🚀 Tecnóloga en Análisis y Desarrollo de Software</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yina+Natalia+Barbosa;Tecn%C3%B3loga+en+Desarrollo+de+Software;Apasionada+por+Backend+y+Datos" alt="Typing SVG" />
+  
+  <br>
+
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding Animation" />
+
   <p>
     <b>💻 Backend | 🛠️ Soporte Técnico | 🎨 Frontend Básico</b>
   </p>
@@ -16,7 +16,6 @@
 <br>
 
 <div align="center">
-  <!-- Badges principales con colores vibrantes -->
   <img src="https://img.shields.io/badge/🎯_Enfoque-Backend_y_Datos-1A73E8?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/🛠️_También-Soporte_Técnico-FF6B00?style=for-the-badge&logo=helpthemes&logoColor=white" />
   <img src="https://img.shields.io/badge/🎨_Frontend-Básico_%7C_React-FF1493?style=for-the-badge&logo=react&logoColor=white" />
@@ -64,7 +63,7 @@ Me caracterizo por mi **curiosidad intelectual**, mi **capacidad de adaptación*
   <a href="https://github.com/natalia123O0o">
     <img src="https://img.shields.io/badge/🐙_GitHub-natalia123O0o-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/yina-barbosa-61814b245" target="_blank">
+  <a href="https://www.linkedin.com/in/yina-barbosa-61814b245" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-Yina_Natalia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
